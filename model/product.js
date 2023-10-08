@@ -22,7 +22,7 @@ const ItemSchema = new mongoose.Schema({
   latitude: {
     type: Number,
   },
-  longitide: {
+  longitude: {
     type: Number,
   },
   photo: {
